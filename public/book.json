@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "title": "Introduction to HTML",
+      "fileName": "intro.html",
+      "description": "Learn the basics of HTML structure and elements",
+      "sequence": 1
+    },
+    {
+      "title": "React Components",
+      "fileName": "react-components.tsx",
+      "description": "Understanding React component architecture",
+      "sequence": 2
+    }
+  ]
+}
